@@ -20,3 +20,13 @@ body{
 .card {
     box-shadow: 0 4px 6px -1px rgb(0, 0, 0, 0.1), 0 2px 4px -1px rgb(0, 0, 0, 0.6);
 }
+
+.card-title {
+    font-family: 'Dancing Script', cursive;
+    min-height: 3rem;
+}
+h1{font-family: 'Playfair Display', serif;}
+#img4 {
+    max-width: 100%;
+    height: auto;
+}
